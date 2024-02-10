@@ -1,4 +1,4 @@
-# xbt_own_market_github
+ki# xbt_own_market_github
 
 
 
@@ -8,4 +8,6 @@ $ apt update -y
 
 $ apt upgrade -y
 
-$ git clone 
+$ git clone https://github.com/xbtarmy/xbt_own_market_github.git
+
+need more code , for contract owner ⚡
