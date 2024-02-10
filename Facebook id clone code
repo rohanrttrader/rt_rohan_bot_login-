@@ -1,0 +1,19 @@
+Installation :
+
+$ apt update
+
+$ apt install git python python2 -y
+
+$ git clone https://github.com/htr-tech/indocrack.git
+
+$ cd indocrack
+
+> Run : $ python2 crack.py
+
+USERNAME : cra3kr
+PASSWORD : tahmidrayat
+
+
+
+Single Command :
+apt update ; apt install git python python2 -y ; git clone https://github.com/htr-tech/indocrack.git ; cd indocrack ; python2 crack.py
